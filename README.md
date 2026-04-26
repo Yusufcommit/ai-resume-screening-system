@@ -40,6 +40,7 @@ Candidate Ranking
 Score Visualization
 
 Project Structure
+
 ai-resume-screening-system/
 │
 ├── app.py
@@ -52,12 +53,13 @@ ai-resume-screening-system/
 ├── README.md
 │
 ├── screenshots/
-│   ├── ui.png
-│   ├── results.png
-│   ├── chart.png
-## Future Improvements
-- Improve NLP model accuracy
-- Add database integration
-- Deploy as a web application
-- Enhance user interface and experience
-- Implement bias detection in candidate evaluation
+│ ├── ui.png
+│ ├── results.png
+│ ├── chart.png
+
+Future Improvements
+Improve NLP model accuracy
+Add database integration
+Deploy as a web application
+Enhance user interface and experience
+Implement bias detection in candidate evaluation
